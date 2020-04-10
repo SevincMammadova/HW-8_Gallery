@@ -1,0 +1,24 @@
+
+.container {
+    padding: 10px;
+}
+.gallery {
+    border: 5px solid blue($color: #000000);
+    padding: 10px;
+    text-align: center;
+    .__text{
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        color: blue;
+    }
+}
+
+.posts {
+    border: 20px;
+    text-align: center;
+    .__text {
+        border: 20px;
+        text-align: center;
+        font-size: 60px;
+    }
+}
